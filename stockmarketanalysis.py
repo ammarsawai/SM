@@ -1,5 +1,5 @@
 import pandas as pd
-import yfinance as yf  # pip install yfinance
+import yfinance as yf
 import datetime
 from datetime import date, timedelta
 import plotly.graph_objects as go
